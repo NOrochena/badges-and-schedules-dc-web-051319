@@ -21,3 +21,4 @@ def assign_rooms(arr)
   end
   rooms
 end
+
